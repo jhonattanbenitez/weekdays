@@ -24,17 +24,5 @@
       "id": 5,
       "day": "Viernes",
       "img_url": "https://i.dietdoctor.com/wp-content/uploads/2020/07/keto-meatloaf-pesto-mayo-v-2.jpg?auto=compress%2Cformat&w=300&h=450&fit=crop"
-  },
-  {
-      "id": 6,
-      "day": "Sábado",
-      "img_url": "https://i.dietdoctor.com/wp-content/uploads/2020/07/Asian-chicken-stir-fry-with-spicy-mayo-v.jpg?auto=compress%2Cformat&w=300&h=450&fit=crop"
-  },
-  {
-      "id": 7,
-      "day": "Domingo",
-      "img_url": "https://i.dietdoctor.com/wp-content/uploads/2020/07/Asian-chicken-stir-fry-with-spicy-mayo-v.jpg?auto=compress%2Cformat&w=300&h=450&fit=crop"
   }
-
-
 ]
